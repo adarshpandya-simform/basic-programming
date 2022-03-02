@@ -1,4 +1,4 @@
-# Basics Of programming : basic i/o (23-dec)
+# Basics of programming
 
 <hr>
 Started on : 23-12-2021<br>
@@ -16,3 +16,11 @@ updates for 23-dec: <br>
     - learnt new methos of string manipulation (upper/lowercase toggle) 
     - performed recursion for finding factorial
     - created a PR 
+
+io : [io branch link](https://github.com/adarshpandya-simform/basic-programming/tree/io) <br>
+implementation : [implementation branch link](https://github.com/adarshpandya-simform/basic-programming/tree/implementation) <br>
+bit manipulation : [bit manipulation branch link](https://github.com/adarshpandya-simform/basic-programming/tree/bit-manipulation) <br>
+operators : [operators branch link](https://github.com/adarshpandya-simform/basic-programming/tree/operators) <br>
+recursion/backtracking :[recursion/backtracking branch link](https://github.com/adarshpandya-simform/basic-programming/tree/recursion/backtracking) <br> 
+<hr>
+
